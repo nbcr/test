@@ -32,7 +32,11 @@ We present a mathematical formulation, derive observational consequences, and pr
 
 ### 2.1 Setup
 
-Let $\{U_i\}_{i=1}^{N}$ be a finite collection of 4‑dimensional Lorentzian manifolds without boundary (or with boundaries only at membranes). Adjacent universes $U_i$ and $U_j$ share a 3‑dimensional membrane $\partial_{ij}$ with induced metric $h_{ab}$. The membrane carries constant tension $\sigma$ and a phase shift $\Delta\theta_{ij}$ (fixed for all adjacent pairs).
+Let
+$
+\{U_i\}_{i=1}^{N}
+$ 
+be a finite collection of 4‑dimensional Lorentzian manifolds without boundary (or with boundaries only at membranes). Adjacent universes $U_i$ and $U_j$ share a 3‑dimensional membrane $\partial_{ij}$ with induced metric $h_{ab}$. The membrane carries constant tension $\sigma$ and a phase shift $\Delta\theta_{ij}$ (fixed for all adjacent pairs).
 
 The total action is
 

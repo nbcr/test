@@ -33,9 +33,9 @@ We present a mathematical formulation, derive observational consequences, and pr
 Let $\{U_i\}_{i=1}^{N}$ be a finite collection of 4‑dimensional Lorentzian manifolds without boundary (or with boundaries only at membranes). Adjacent universes $U_i$ and $U_j$ share a 3‑dimensional membrane $\partial_{ij}$ with induced metric $h_{ab}$. The membrane carries constant tension $\sigma$ and a phase shift $\Delta\theta_{ij}$ (fixed for all adjacent pairs).
 
 The total action is
-$$
+```math
 S = \sum_i \frac{1}{16\pi G} \int_{U_i} \sqrt{-g^{(i)}} R^{(i)} \, d^4 + \sum_{\langle i,j \rangle} \int_{\partial_{ij}} \sqrt{h} \left( \frac{1}{8\pi G} K^{(i)} + \frac{1}{8\pi G} K^{(j)} + \sigma \right) d^3x,
-$$
+```
 
 where $K^{(i)}$ is the trace of the extrinsic curvature of $\partial_{ij}$ as embedded in $U_i$. The membrane term includes the tension $\sigma$ and the Gibbons–Hawking–York boundary terms. Variation with respect to the metric on each $U_i$ yields the Einstein equations in the bulk, and the Israel junction conditions at the membranes:\
 $$

@@ -1,6 +1,7 @@
 # A Finite Multiverse with Phase-Shift Membranes: A Unified Explanation for Dark Matter, Dark Energy, and Early Black Holes
 
 **Author:** Shawn Amyotte 
+
 **Date:** March 20, 2026  
 **Version:** 1.0
 

@@ -34,6 +34,7 @@ Let $\{U_i\}_{i=1}^{N}$ be a finite collection of 4‑dimensional Lorentzian man
 
 The total action is\
 
+
 '''math
 S = \sum_i \frac{1}{16\pi G} \int_{U_i} \sqrt{-g^{(i)}} R^{(i)} \, d^4x + \sum_{\langle i,j \rangle} \int_{\partial_{ij}} \sqrt{h} \left( \frac{1}{8\pi G} K^{(i)} + \frac{1}{8\pi G} K^{(j)} + \sigma \right) d^3x,'''
 
